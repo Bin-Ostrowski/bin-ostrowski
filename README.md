@@ -2,9 +2,9 @@
 
 - 🖖 I'm a junior web develper.
 - ⭐ My specialty is the MERN stack.
-- 🔭 I’m currently working on my own ecommerse page for Roski Jewlery. 
 - 🌱 I'm currently learning about cloud storage and serverless apps.
-- 👯 I’m looking to collaborate on any large database in SQL or NoSQL. 
+- 🔭 I’m currently working on my own ecommerse page for Roski Jewlery. 
+- 👯 I’m looking to collaborate on a React-Native app for Independent Landscapers.
 - ✨ Thrives in the ever-changing industry while building clean, dry web applications that drives business value.
 - ⚡ Fun fact: I'm also a metalsmith and card game lover. 
 
